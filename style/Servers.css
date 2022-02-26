@@ -1,0 +1,61 @@
+.noh
+{
+    padding: 30px;
+    line-height: 30px;
+}
+.noh ul li
+{
+    padding: 10px;
+}
+.noj img
+{
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.bot 
+{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.nok
+{
+    background-color: #746b6b46;
+    margin-top: 50px;
+    width: 75%;
+    box-shadow:10px 10px 10px 10px gray; 
+    padding: 2%;
+}
+.nok h4,h3,h5
+{
+    font-weight: bolder;
+    margin-left: 5%;
+}
+.nok h5
+{
+    color: #ff8935;
+}
+.nol 
+{
+   
+}
+.nom ul li
+{
+    padding: 5px;
+}
+.first
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.glass
+{
+    background-color:#ffffff1a;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 20px 20px 50px #00000080;
+}
+.card:hover
+{
+    background-image: linear-gradient(to right,#3e05c5,#584777);
+    color: #fff;
+}

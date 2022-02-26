@@ -1,0 +1,31 @@
+.cont img
+{
+    width: 40px;
+    text-align: center;
+
+}
+.mod h1
+{
+    font-weight: bolder;
+}
+.mod p
+{
+    font-size: 25px;
+}
+.nod img
+{
+    width: 100px;
+}
+
+.noe
+{
+    padding:25px;
+}
+.line li
+{
+    padding: 20px;;
+}
+.nof p
+{
+    font-size:15px;    
+}

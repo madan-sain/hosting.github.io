@@ -1,0 +1,130 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+    transition: 0.5s ease ease-in-out;
+    list-style: none;
+   
+}
+@media only screen and (max-width: 986px) {
+    .nav-item .nav-link
+    {
+        text-align: center;
+    }
+  }
+
+
+
+.ad
+{
+    background-image: linear-gradient(to right,#3e05c5,#584777);
+}
+.ab ul li
+{
+    line-height: 50px;
+}
+.ac
+{
+    position: relative;
+    margin-left: 30px; 
+;   
+}
+.ae h4
+{
+    background: #335730;
+    padding:20px;
+    text-align: center;
+    color:#fff;
+}
+.bd
+{
+    position: relative;
+    top: 2rem;
+}
+.ma ul li
+{
+    line-height: 50px;    
+}
+.ae
+{
+padding: 5px;
+}
+.card
+{
+    box-shadow: 10px 10px 10px 10px gray;
+    margin-left: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.cardbroder h3
+{
+    font-weight: bolder;
+    padding: 10px;
+}
+.cardbroder 
+{
+    box-shadow: 10px 10px 10px 10px  gray;
+    margin-left: 20px;
+    margin-left: 20px;
+    margin-top: 20px; 
+    text-align: center;
+    border-radius: 10px;
+      
+}
+.cardbroder:hover
+{
+    background-image: linear-gradient(to right,#3e05c5,#584777);
+    color: #fff;
+}
+.cardbroder p
+{
+    padding: 20px;
+}
+.na
+{
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px  gray;
+    border: 1px solid #000;
+    margin-top: 10px;
+}
+.na:hover
+{
+    background-image: linear-gradient(to right,#3e05c5,#584777);
+    color: #fff;
+}
+.na img
+{
+    width: 200px;
+}
+footer
+{
+    background-image: linear-gradient(to right,#3e05c5,#584777);
+}
+.icon i
+{
+    color: #fff;
+    padding: 10px; 
+    font-size: 20px;   
+}
+.icon i:hover
+{
+    color: #ac53c7;
+}
+.bg h5
+{
+    position: relative;
+    left: 30px;
+    font-weight: bolder;
+}
+.bg li a
+{
+    color: #cac5c5;
+    text-decoration: none;
+}
+.logo img
+{
+    width: 250px;
+}
